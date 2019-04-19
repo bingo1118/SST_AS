@@ -1,0 +1,614 @@
+[
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_waite.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_add_waite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_creat_qr_code.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_creat_qr_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_wait_connection.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_wait_connection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_toast.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_control_main.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_control_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_defence_area_control.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\fragment_defence_area_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_setting.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\choice_bell_list_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\choice_bell_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\set_bell_ring.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\set_bell_ring.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_keyboard.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\fragment_keyboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_playback_list.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_playback_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_load_record.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_load_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\defence_alertdialog.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\defence_alertdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modify_account_email.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_modify_account_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qrcode.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_qrcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_date_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_date_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_list.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_wifi_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\timer_date_pick.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\timer_date_pick.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\set_push_time.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\set_push_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_firelink_alarm.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_firelink_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\notify_down_bar.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\notify_down_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_download.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\set_sd_bell.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\set_sd_bell.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\search_list.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\search_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qr_code.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_qr_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_utils.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\fragment_utils.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_remote_control.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\fragment_remote_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\push_set_dialog.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\push_set_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_wifi_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_wifi_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_login_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_login_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_contact_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_contact_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_alarm_record_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_alarm_record_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_gallery.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modify_account_phone.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_modify_account_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_about.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_selector.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_security_control.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\fragment_security_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\notify_update_layout.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\notify_update_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fault.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\fragment_fault.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\modify_npc_pwd.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\modify_npc_pwd.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\notify_status_bar.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\notify_status_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_editext_pwd.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_editext_pwd.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_search_list_prompt.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_search_list_prompt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\p2p_monitor.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\p2p_monitor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_mymessage.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_mymessage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_neally.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\fragment_neally.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\play_back_date_pick.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\play_back_date_pick.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\time_picker.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\time_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_add_bar_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_add_bar_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\customer_notitfication_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\net_status_bar.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\net_status_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_recent_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_recent_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_prompt.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_prompt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_system_set.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_system_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_ipc_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_ipc_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_local_device.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_item_local_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\image_browser.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\image_browser.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modify_login_password.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_modify_login_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_loading2.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_loading2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_control_main.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\fragment_control_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\inputpassword.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\inputpassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_update.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_device_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_alarm_record_item2.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_alarm_record_item2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sd_card.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\fragment_sd_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_local_device_list.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_local_device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\progress.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_record_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_record_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\forgetpassword.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\forgetpassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_searchlist_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_searchlist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\gd_quick_action_bar.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\gd_quick_action_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_net_control.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\fragment_net_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_contact_next.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_add_contact_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_contact.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_add_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_yuzhiwei.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_yuzhiwei.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_video_control.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\fragment_video_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_selector_dialog_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_selector_dialog_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_time_control.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\fragment_time_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_unbind_phone.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_unbind_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_record_control.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\fragment_record_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_loading.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\fragment_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_firelink_alarm2.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_firelink_alarm2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\register_form2.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\register_form2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\title_search_list.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\title_search_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wait_device_network.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_wait_device_network.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_loading.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_contact_item2.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_contact_item2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\drop_list_ys.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\drop_list_ys.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_list.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_help.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_update.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_normal.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\verify_phone.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\verify_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\gd_quick_action_bar_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\gd_quick_action_bar_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sysmsg.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_sysmsg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_alarm_type_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_alarm_type_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_connect_failed.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_connect_failed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\modify_npc_visitor_pwd.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\modify_npc_visitor_pwd.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_radar_add.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_radar_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_alarm_control.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\fragment_alarm_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_check.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_image_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_text_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\spinner_text_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_infrared_wifi_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_infrared_wifi_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_account.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imagegallay.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_imagegallay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\pop_email_smtp.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\pop_email_smtp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_tell_detail_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_tell_detail_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\linerlayout_pass.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\linerlayout_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alarm.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_filter_user_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_filter_user_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_device_info.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_device_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modify_account_phone2.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_modify_account_phone2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_promopt_box2.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_promopt_box2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alarm_set.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_alarm_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_alarm_mask_id.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_add_alarm_mask_id.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\modify_npc_bound_email.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\modify_npc_bound_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_wheel_date_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_wheel_date_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_radar_add_first.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_radar_add_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_email.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\popwindow_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_sysmsg_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_sysmsg_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\message_left.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\message_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\register_form.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\register_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\modify_npc_alarm_id.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\modify_npc_alarm_id.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\fragment_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_imgbrowser_item.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_imgbrowser_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sys_notify.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_sys_notify.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alarm_push_msg.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_alarm_push_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cut_image.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_cut_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\p2p_video.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\p2p_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\list_record_load.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\list_record_load.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_success.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout_one.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\customer_notitfication_layout_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\message_right.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\message_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logo.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modify_contact.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_modify_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_myinputpass.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_myinputpass.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_prompt_box1.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_prompt_box1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alarm_record.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_alarm_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_input.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\dialog_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_info.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\fragment_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\activity_newdoorbell.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\activity_newdoorbell.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\p2p_playback.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\p2p_playback.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_record.xml",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\layout\\fragment_record.xml"
+    }
+]

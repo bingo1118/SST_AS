@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AS\android-studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Rain\Desktop\sst0405\sst0405\build\intermediates\pre-dexed\debug\gson-2.2.4_1cd967eab4e2335358ecb2d2c61db2ac11822f4f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rain\Desktop\sst0405\sst0405\build\intermediates\exploded-aar\sst0405\p2PCoresst0405\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="c819670043b4c1e6c0850e016a8f70ab6497c214">
+        <dex dex="C:\Users\Rain\Desktop\sst0405\sst0405\build\intermediates\pre-dexed\debug\sst0405-p2PCoresst0405-unspecified_21d6e4f1ff51885d6c00b0b2f7504ba4e08e15be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rain\.gradle\caches\modules-2\files-2.1\com.android.support\support-v4\19.1.0\85f201b380937e61a9dce6ca90ccf6872abbfb67\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Rain\Desktop\sst0405\sst0405\build\intermediates\pre-dexed\debug\support-v4-19.1.0_7f71fde670aa64183ce28a2c2831d7fd724067e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rain\Desktop\sst0405\sst0405\libs\zxing.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="C:\Users\Rain\Desktop\sst0405\sst0405\build\intermediates\pre-dexed\debug\zxing_2275c97fbb3d12b41bab5b129daba089f04117b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rain\Desktop\sst0405\sst0405\libs\jpush-android-2.0.5.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="f2c821a0d13219a2e70490085c390bab03fb5953">
+        <dex dex="C:\Users\Rain\Desktop\sst0405\sst0405\build\intermediates\pre-dexed\debug\jpush-android-2.0.5_fb15296660c11093f80dca5d0e03b0c0386925af.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rain\Desktop\sst0405\sst0405\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="C:\Users\Rain\Desktop\sst0405\sst0405\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0_f825d3df6cb631d63c89d719692afc9bff9bd30e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rain\Desktop\sst0405\sst0405\build\intermediates\exploded-aar\sst0405\p2PCoresst0405\unspecified\jars\libs\javabase64.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="ccfc71655e280fe6c085cc77dff2aac84d16c7c7">
+        <dex dex="C:\Users\Rain\Desktop\sst0405\sst0405\build\intermediates\pre-dexed\debug\javabase64_4bcd5ce5cafcc14f560a0ca6fb40ec17d8e3fca7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rain\Desktop\sst0405\sst0405\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Users\Rain\Desktop\sst0405\sst0405\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_6f5a83f1426716da4b4e6dba6b6799207d021623.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rain\Desktop\sst0405\sst0405\libs\volley.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="C:\Users\Rain\Desktop\sst0405\sst0405\build\intermediates\pre-dexed\debug\volley_1e1006e9f8f6428632acc11ef7b5b2cacaa1f328.jar" />
+    </item>
+
+</items>

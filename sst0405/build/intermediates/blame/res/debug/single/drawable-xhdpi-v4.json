@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\net_warning.png",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\drawable-xhdpi\\net_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\net_warning_bar_bg.9.png",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\drawable-xhdpi\\net_warning_bar_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\v_fire_logo.png",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\drawable-xhdpi\\v_fire_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\net_warning_redirect.png",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\drawable-xhdpi\\net_warning_redirect.png"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_expand_more_black_18dp.png",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\drawable-xhdpi\\ic_expand_more_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\honeywell_logo.png",
+        "source": "C:\\Users\\Rain\\Desktop\\sst0405\\sst0405\\src\\main\\res\\drawable-xhdpi\\honeywell_logo.png"
+    }
+]

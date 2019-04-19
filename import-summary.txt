@@ -1,0 +1,110 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From P2P-Core-sst0405:
+* P2P-Core-sst0405.iml
+* ic_launcher-web.png
+* proguard-project.txt
+From sst0405:
+* .externalToolBuilders\
+* .externalToolBuilders\Native Gview.launch
+* .externalToolBuilders\Native_Builder.launch
+* proguard\
+* proguard\dump.txt
+* proguard\mapping.txt
+* proguard\seeds.txt
+* proguard\usage.txt
+* sst0405.iml
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+gson-2.2.4.jar => com.google.code.gson:gson:2.2.4
+
+Potentially Missing Dependency:
+-------------------------------
+When we replaced the following .jar files with a Gradle dependency, we
+inferred the dependency version number from the filename. This
+specific version may not actually be available from the repository.
+If you get a build error stating that the dependency is missing, edit
+the version number to for example "+" to pick up the latest version
+instead. (This may require you to update your code if the library APIs
+have changed.)
+
+gson-2.2.4.jar => version 2.2.4 in com.google.code.gson:gson:2.2.4
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In P2P-Core-sst0405:
+* AndroidManifest.xml => p2PCoresst0405\src\main\AndroidManifest.xml
+* assets\ => p2PCoresst0405\src\main\assets
+* libs\javabase64.jar => p2PCoresst0405\libs\javabase64.jar
+* res\ => p2PCoresst0405\src\main\res
+* src\ => p2PCoresst0405\src\main\java\
+In sst0405:
+* AndroidManifest.xml => sst0405\src\main\AndroidManifest.xml
+* assets\ => sst0405\src\main\assets
+* libs\armeabi-v7a\libelianjni.so => sst0405\src\main\jniLibs\armeabi-v7a\libelianjni.so
+* libs\armeabi-v7a\libjpush205.so => sst0405\src\main\jniLibs\armeabi-v7a\libjpush205.so
+* libs\armeabi-v7a\libmediaplayer.so => sst0405\src\main\jniLibs\armeabi-v7a\libmediaplayer.so
+* libs\armeabi-v7a\libSDL.so => sst0405\src\main\jniLibs\armeabi-v7a\libSDL.so
+* libs\armeabi\libelianjni.so => sst0405\src\main\jniLibs\armeabi\libelianjni.so
+* libs\armeabi\libjpush205.so => sst0405\src\main\jniLibs\armeabi\libjpush205.so
+* libs\armeabi\libmediaplayer.so => sst0405\src\main\jniLibs\armeabi\libmediaplayer.so
+* libs\armeabi\libSDL.so => sst0405\src\main\jniLibs\armeabi\libSDL.so
+* libs\jpush-android-2.0.5.jar => sst0405\libs\jpush-android-2.0.5.jar
+* libs\mips\libelianjni.so => sst0405\src\main\jniLibs\mips\libelianjni.so
+* libs\mips\libjpush205.so => sst0405\src\main\jniLibs\mips\libjpush205.so
+* libs\mips\libmediaplayer.so => sst0405\src\main\jniLibs\mips\libmediaplayer.so
+* libs\mips\libSDL.so => sst0405\src\main\jniLibs\mips\libSDL.so
+* libs\pinyin4j-2.5.0.jar => sst0405\libs\pinyin4j-2.5.0.jar
+* libs\universal-image-loader-1.9.3.jar => sst0405\libs\universal-image-loader-1.9.3.jar
+* libs\volley.jar => sst0405\libs\volley.jar
+* libs\x86\libelianjni.so => sst0405\src\main\jniLibs\x86\libelianjni.so
+* libs\x86\libjpush205.so => sst0405\src\main\jniLibs\x86\libjpush205.so
+* libs\x86\libmediaplayer.so => sst0405\src\main\jniLibs\x86\libmediaplayer.so
+* libs\x86\libSDL.so => sst0405\src\main\jniLibs\x86\libSDL.so
+* libs\zxing.jar => sst0405\libs\zxing.jar
+* res\ => sst0405\src\main\res\
+* src\ => sst0405\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
